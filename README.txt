@@ -1,4 +1,4 @@
-Personal Portfolio Site 
+Personal Projects Site 
 - Nick Goralka
 
 	HTMP/CSS Template
