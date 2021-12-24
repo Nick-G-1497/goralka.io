@@ -122,7 +122,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: rgb(238, 8, 8);
 		}
 
 	h2 {
@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(248, 1, 1);
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: rgb(248, 1, 1);
 			}
 
 	h3 {
@@ -156,7 +156,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: rgb(226, 3, 3);
 	}
 
 	em, i {
@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #88e276;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #76e276;
 					}
 
 /* Footer */
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/bg.jpg");
 			}
 
 			#main > section.two {
